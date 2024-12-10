@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/zsw/vscode/build",
+  "command": "C:/Users/XA0008/w64devkit/bin/g++.exe  @CMakeFiles/c++.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/c++.dir/src/main.cpp.obj -c C:/zsw/vscode/src/main.cpp",
+  "file": "C:/zsw/vscode/src/main.cpp",
+  "output": "CMakeFiles/c++.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/zsw/vscode/build",
+  "command": "C:/Users/XA0008/w64devkit/bin/g++.exe  @CMakeFiles/c++.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/c++.dir/src/sort.cpp.obj -c C:/zsw/vscode/src/sort.cpp",
+  "file": "C:/zsw/vscode/src/sort.cpp",
+  "output": "CMakeFiles/c++.dir/src/sort.cpp.obj"
+}
+]

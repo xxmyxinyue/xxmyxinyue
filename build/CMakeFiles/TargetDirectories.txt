@@ -1,0 +1,3 @@
+C:/zsw/vscode/build/CMakeFiles/c++.dir
+C:/zsw/vscode/build/CMakeFiles/edit_cache.dir
+C:/zsw/vscode/build/CMakeFiles/rebuild_cache.dir
